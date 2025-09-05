@@ -28,7 +28,7 @@ const Legacy = () => {
             <div 
               className="absolute inset-0 bg-gradient-to-br from-blue-600 to-purple-700 bg-cover bg-center bg-no-repeat transition-transform duration-700 group-hover:scale-105"
               style={{
-                backgroundImage: 'url("./img1.jpeg")'
+                backgroundImage: 'url("https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80")'
               }}
             ></div>
             
